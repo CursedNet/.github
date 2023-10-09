@@ -11,7 +11,3 @@
 
 
 
-### :woman_technologist: &nbsp;About Me :
-
-
-
