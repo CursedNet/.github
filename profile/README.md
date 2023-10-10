@@ -15,9 +15,7 @@
       👋 Contributing to CursedNet.js.
   </h4>
   <div>
-    <h5>
          CursedNet.js is an open source organization and is always looking for new opportunities. We are learning and developing new technologies together, if you are a developer who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your own   project.
-    </h5>
   </div>
 
 <h4>
