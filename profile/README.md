@@ -8,4 +8,13 @@
   <div align="center">
     CursedNet.js® is an open-source organization that develops web applications, web technologies.<br/> We program in the languages: C#, JS, TS, and also use libraries and frameworks: Node.js, React, Vue.
   </div>
+  
+---
 
+  <h5>
+      👋 Contributing to Node.js.
+  </h5>
+  <div>
+    CursedNet.js is an open source organization and is always looking for new opportunities.
+    We are learning and developing new technologies together, if you are a developer who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your own   project.
+  </div>
