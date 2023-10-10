@@ -8,7 +8,9 @@
   <div align="center">
     CursedNet.js® is an open-source organization that develops web applications, web technologies.<br/> We program in the languages: C#, JS, TS, and also use libraries and frameworks: Node.js, React, Vue.
   </div>
-
+  
+  [Get CursedNet.js®](-)  ✨ [Report a bug on CursedNet.js](-)  🐞 [Contribute to CursedNet.js](-) [Get Node.js®](-)  [Get Certified](-) 🎓
+  
   <!-- Тут сделать кнопки, которые я тебе скинул в Discord. Если не скинул, то напиши мне в дс -->
 
   <!-- Если сделаешь, то на этом мы закончили с этим, только на самом сайте в репозитории надо тоже будет эту хрень делать. Если сделаешь удали эти комменты. --->
