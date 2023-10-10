@@ -16,9 +16,8 @@
   <h4>
     👋 Contributing to CursedNet.js.
   </h4>
-  <div>
-         CursedNet.js is an open source organization and is always looking for new opportunities.
-  </div>
+  
+  CursedNet.js is an [open source organization](https://devollox.fun/) and is always looking for new opportunities.
 
   <h4>
     🦺 We will help you create a project.
