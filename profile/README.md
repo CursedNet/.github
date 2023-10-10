@@ -24,3 +24,9 @@
 <div>
   We are learning and developing new technologies together, if you are a developer who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your own   project.
 </div>
+
+
+- text in red
++ text in green
+! text in orange
+# text in gray
