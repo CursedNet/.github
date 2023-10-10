@@ -1,6 +1,7 @@
    <h1 align="center">
       <a href="-" target="_blank">CursedNet.js</a>
    </h1>
+     <br/>
    <div>
       <div align="center"><img src="https://github.com/CursedNet/.github/blob/main/profile/rxjs-logo-1C13E67498-seeklogo.com.png" width="150" height="150"/></div>
   </div>
