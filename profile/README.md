@@ -11,6 +11,10 @@
   
 ---
 
+### ✍️ Blog Posts : 
+ [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
+
+
   <h4>
       👋 Contributing to CursedNet.js.
   </h4>
