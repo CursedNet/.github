@@ -18,9 +18,16 @@
          CursedNet.js is an open source organization and is always looking for new opportunities.
   </div>
 
-<h4>
-  🦺 We will help you create a project.
-</h4>
-<div>
-  We are learning and developing new technologies together, if you are a <a>developer</a> who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your own   project.
-</div>
+  <h4>
+    🦺 We will help you create a project.
+  </h4>
+  <div>
+    We are learning and developing new technologies together, if you are a <a>developer</a> who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your      own project.
+  </div>
+
+  <h4>
+    👾 Reporting Security Incidents.
+  </h4>
+  <div>
+    If you find an error or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
+  </div>
