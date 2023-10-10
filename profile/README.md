@@ -22,15 +22,7 @@
     🦺 We will help you create a project.
   </h4>
   <div>
-    We are learning and developing new technologies together, if you are a <a>developer</a> who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your      own project.
-  </div>
-
-
-
-  <div>
-    <h3>
-      3
-    </h3>
+    We are learning and developing new technologies together, if you are a developer [developer](https://devollox.fun/) who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create  your own project.
   </div>
 
   <h4>
