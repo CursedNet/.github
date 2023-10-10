@@ -1,4 +1,4 @@
-  <h1 align="center">
+   <h1 align="center">
       CursedNet.js
   </h1>
 ㅤ<div>
@@ -9,10 +9,10 @@
     CursedNet.js® is an open-source organization that develops web applications, web technologies.<br/> We program in the languages: C#, JS, TS, and also use libraries and frameworks: Node.js, React, Vue.
   </div>
 
-  <!-- Тут сделать кнопки, которые я тебе скинул в Discord. Если не скинул, то напиши мне в дс -->
+  <h6 align="center">
+    <a href="-" target="_blank">Get CursedNet.js® ✨</a> · <a href="-" target="_blank">Report a bug on CursedNet.js 🐞</a> · <a href="-" target="_blank">Contribute to CursedNet.js ❤️</a> · <a href="-" target="_blank">Get Certified 🎓</a>
+  </h6>
 
-  <!-- Если сделаешь, то на этом мы закончили с этим, только на самом сайте в репозитории надо тоже будет эту хрень делать. Если сделаешь удали эти комменты. --->
-    
 ---
 
   <h4>
