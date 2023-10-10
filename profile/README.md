@@ -19,18 +19,18 @@
     👋 Contributing to CursedNet.js.
   </h4>
   
-  CursedNet.js is an [open source organization](https://devollox.fun/) and is always looking for new opportunities.
+  CursedNet.js is an [open source organization](-) and is always looking for new opportunities.
 
   <h4>
     🦺 We will help you create a project.
   </h4>
 
-   We are learning and developing new technologies together, if you are a [developer](https://devollox.fun/) who [wants](https://devollox.fun/) to start writing websites or an application together, then you can [join](https://devollox.fun/) us, you will get the opportunity to create your own [project](https://devollox.fun/).
+   We are learning and developing new technologies together, if you are a [developer](-) who [wants](-) to start writing websites or an application together, then you can [join](-) us, you will get the opportunity to create your own [project](-).
 
   <h4>
     👾 Reporting Security Incidents.
   </h4>
 
-  If you find an [error](https://devollox.fun/) or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
+  If you find an [error](-) or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
 
   
