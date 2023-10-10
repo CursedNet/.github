@@ -8,15 +8,13 @@
   <div align="center">
     CursedNet.js® is an open-source organization that develops web applications, web technologies.<br/> We program in the languages: C#, JS, TS, and also use libraries and frameworks: Node.js, React, Vue.
   </div>
-  
+
+  <!-- Тут сделать кнопки, которые я тебе скинул в Discord. Если не скинул, то напиши мне в дс -->
+    
 ---
 
-### ✍️ Blog Posts : 
- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-
-
   <h4>
-      👋 Contributing to CursedNet.js.
+    👋 Contributing to CursedNet.js.
   </h4>
   <div>
          CursedNet.js is an open source organization and is always looking for new opportunities.
@@ -35,3 +33,5 @@
   <div>
     If you find an error or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
   </div>
+
+  
