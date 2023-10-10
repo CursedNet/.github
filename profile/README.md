@@ -22,5 +22,5 @@
   🦺 We will help you create a project.
 </h4>
 <div>
-  We are learning and developing new technologies together, if you are a <span><h5>developer</h5></span> who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your own   project.
+  We are learning and developing new technologies together, if you are a <p>developer</span> who wants to start writing websites or an application together, then you can join us, you will get the opportunity to create your own   project.
 </div>
