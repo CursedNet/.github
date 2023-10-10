@@ -16,19 +16,19 @@
 ---
 
  <h4>
-    👋 Contributing to CursedNet.js.
+    <a href="-" target="_blank">👋 Contributing to CursedNet.js</a>
   </h4>
   
   CursedNet.js is an [open source organization](-) and is always looking for new opportunities.
 
   <h4>
-    🦺 We will help you create a project.
+     <a href="-" target="_blank">🦺 We will help you create a project.</a>
   </h4>
 
    We are learning and developing new technologies together, if you are a [developer](-) who [wants](-) to start writing websites or an application together, then you can [join](-) us, you will get the opportunity to create your own [project](-).
 
   <h4>
-    👾 Reporting Security Incidents.
+     <a href="-" target="_blank">👾 Reporting Security Incidents.</a>
   </h4>
 
   If you find an [error](-) or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
