@@ -3,7 +3,7 @@
    </h1>
      <br/>
    <div>
-      <div align="center"><img src="https://github.com/CursedNet/.github/blob/main/profile/rxjs-logo-1C13E67498-seeklogo.com.png" width="150" height="150"/></div>
+      <div align="center"><img src="https://github.com/CursedNet/.github/blob/main/profile/giphy.gif" width="200" height="200"/></div>
   </div>
     <br/>
   <div align="center">
@@ -32,4 +32,5 @@
   </h4>
 
   If you find an <a href="-" target="_blank">error</a> or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
-  
+
+   <img src="https://github.com/CursedNet/.github/blob/main/profile/giphy.gif" width="40" height="40" />
