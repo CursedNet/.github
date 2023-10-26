@@ -32,5 +32,3 @@
   </h4>
 
   If you find an <a href="-" target="_blank">error</a> or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
-
-   <img src="https://github.com/CursedNet/.github/blob/main/profile/giphy.gif" width="40" height="40" />
