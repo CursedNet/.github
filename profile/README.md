@@ -21,14 +21,3 @@
   
   CursedNet.js is an <a href="-" target="_blank">open source organization</a> and is always looking for new opportunities.
 
-  <h4>
-     <a href="-" target="_blank">🦺 We will help you create a project.</a>
-  </h4>
-
-   We are learning and developing new technologies together, if you are a <a href="-" target="_blank">developer</a> who <a href="-" target="_blank">wants</a> to start writing websites or an application together, then you can <a href="-" target="_blank">join</a> us, you will get the opportunity to create your own <a href="-" target="_blank">project</a>.
-
-  <h4>
-     <a href="-" target="_blank">👾 Reporting Security Incidents.</a>
-  </h4>
-
-  If you find an <a href="-" target="_blank">error</a> or oddity in our projects, write to us or correct it yourself, you will help us make our project safe.
